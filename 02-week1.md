@@ -100,3 +100,5 @@ rbind(x,y)
 ```
 
 - matrix也可以，不過要用到`dimnames()`，傳入一個list來當參數，第一個是row names，第二個是column names
+
+> `c(1,2,3)`這裏的c代表的是concatenate
